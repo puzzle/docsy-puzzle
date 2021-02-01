@@ -10,7 +10,7 @@ The theme adds the following to the standard docsy theme:
 
 ## Installation
 
-To add the docsy, docsy-plus and docsy-acend themes to an existing Hugo project, run the following commands from your project’s root directory:
+To add the [docsy](https://github.com/google/docsy), [docsy-plus](https://github.com/puzzle/docsy-plus) and docsy-puzzle themes to an existing Hugo project, run the following commands from your project’s root directory:
 
 ```sh
 git submodule add https://github.com/google/docsy.git themes/docsy
