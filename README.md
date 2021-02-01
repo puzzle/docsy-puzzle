@@ -6,7 +6,7 @@ The docsy-acend theme inherites from the docsy theme through Hugos [Theme Compon
 The theme adds the following to the standard docsy theme:
 
 * Puzzle ITC colors scheme and fonts
-* the Puzzle ITC logo
+* Puzzle ITC logo
 
 ## Installation
 
