@@ -1,7 +1,7 @@
 # Docsy Puzzle
 
 Additions for the [docsy theme](https://github.com/google/docsy) for [Hugo](https://gohugo.io/), used for [Puzzle](https://puzzle.ch/) training content.
-The docsy-acend theme inherites from the docsy theme through Hugos [Theme Components](https://gohugo.io/hugo-modules/theme-components/).
+The docsy-puzzle theme inherites from the docsy theme through Hugos [Theme Components](https://gohugo.io/hugo-modules/theme-components/).
 
 The theme adds the following to the standard docsy theme:
 
