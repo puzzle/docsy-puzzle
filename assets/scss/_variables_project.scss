@@ -1,10 +1,21 @@
-$primary: #1E5A96;
-$secondary: #BA5A31;
+$PU-Darkblue: #1E5A96;
+$PU-Brightnavyblue: #3B7BBE;
+$PU-Greenbluecrayola: #238BCA;
+$PU-Carolinablue: #3FA8E0;
+$PU-Maximumbluegreen: #46BCC0;
+$PU-Bluemunsell: #2C97A6;
+$PU-Emerald: #69B978;
+$PU-Brilliantgreen: #61B44B;
+$PU-Prussianblue: #1B2D53;
+$redorange: #BA5A31;
+
+$primary: $PU-Darkblue !default;
+$secondary: $redorange;
 
 $light: lighten($primary, 75%) !default;
-$info: $primary !default;
-$warning: $secondary !default;
-$danger: $secondary !default;
+$info: $PU-Darkblue !default;
+$warning: $redorange !default;
+$danger: $redorange !default;
 
 $dark: #403F4C !default;
 $blue: #72A1E5 !default;
