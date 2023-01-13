@@ -10,7 +10,7 @@ The theme adds the following to the standard docsy theme:
 
 ## Installation
 
-To add the [docsy](https://github.com/google/docsy), [docsy-plus](https://github.com/puzzle/docsy-plus) and docsy-puzzle themes to an existing Hugo project, run the following commands from your project’s root directory:
+To add the [docsy](https://github.com/google/docsy), [docsy-plus](https://github.com/acend/docsy-plus) and docsy-puzzle themes to an existing Hugo project, run the following commands from your project’s root directory:
 
 ```sh
 hugo mod get github.com/acend/docsy-plus
@@ -34,4 +34,4 @@ Example config.toml:
     disable = false
 ```
 
-Docsy itself is a dependencsy of docsy-plus
+Docsy itself is a dependency of docsy-plus
