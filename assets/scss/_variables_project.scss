@@ -9,19 +9,14 @@ $PU-Brilliantgreen: #61B44B;
 $PU-Prussianblue: #1B2D53;
 $redorange: #BA5A31;
 
-$primary: $PU-Darkblue !default;
-$secondary: $redorange;
+// Override Bootstrap's default primary color - NO !default
+$primary: $PU-Darkblue;
 
-$light: lighten($primary, 75%) !default;
-$info: $PU-Darkblue !default;
-$warning: $redorange !default;
-$danger: $redorange !default;
+// Use primary for navbar - NO !default
+$td-navbar-bg-color: $primary;
 
-$dark: #403F4C !default;
-$blue: #72A1E5 !default;
-$orange: #BA5A31 !default;
+// Disable Google Fonts - using self-hosted fonts
+$td-enable-google-fonts: false;
 
-$td-enable-google-fonts: true;
-
-$google_font_name: "Roboto";
-$google_font_family: "Roboto:300,300i,400,400i,700,700i";
+// Use Roboto as the main font
+$font-family-sans-serif: 'Roboto', -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif;
